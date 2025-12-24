@@ -1,4 +1,6 @@
-# Yirga Belay, PhD
+
+Hi you👋 I'm [Yirga Belay, PhD]([https://github.com/Yirga-16](https://Yirga-16.github.io))🤦‍♂️
+
 
 Academic CV and professional homepage.
 
@@ -10,26 +12,6 @@ Academic CV and professional homepage.
 This repository hosts my personal academic CV website, including my education,
 research experience, publications, and professional activities in:
 
-- Renewable energy systems  
-- Smart grids and grid flexibility  
-- Battery Energy Storage Systems (BESS)  
-- Electric vehicle charging infrastructure  
-- Data science and machine learning  
-
----
-
-## Contact
-- **Email:** besufikad@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/yirgabelay  
-- **Google Scholar:** https://scholar.google.com/citations?user=0tcnm34AAAAJ&hl=en  
-
----
-Hi you👋 I'm [Yirga Belay]([https://github.com/Yirga-16](https://Yirga-16.github.io))🤦‍♂️
-
-
-
-
-
 <h2 align="center">
 A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine Learning 
 </h2>
@@ -38,10 +20,13 @@ A Renewable Energy Engineer, Environmental Physicist, Data Scientist & Machine L
 
 ## ![4727424](https://github.com/Yirga-16/Yirga-16/assets/13764768/93890a56-2ad2-4ef1-832f-6bef36129ec4) I'm currently working on
 
-- Renewable energy and Environment
-- Electric Vehicle Charging system
-- Data Science
-- Machine Learning 
+- Renewable energy systems  
+- Smart grids and grid flexibility  
+- Battery Energy Storage Systems (BESS)  
+- Electric vehicle charging system  
+- Data science and machine learning
+- Environmental Physics
+
 
 ## Skills 
 [<img src="https://github.com/Yirga-16/Some-Documents/blob/main/Logos/python.png" width="50"/>](https://www.linkedin.com/in/yirgabelay/)
